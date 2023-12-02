@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 def hough_circle_transform(image):
-    # Gaussian Filter
+    # Hough Circle Transform
     # image: image matrix
     # return: image matrix after Hough Circle transform
 
