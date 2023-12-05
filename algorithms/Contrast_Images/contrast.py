@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 
 def image_contrast(image):
     # Image Contrast Filter
